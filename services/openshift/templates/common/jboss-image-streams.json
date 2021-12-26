@@ -148,7 +148,7 @@
             "kind": "ImageStream",
             "apiVersion": "v1",
             "metadata": {
-                "name": "jboss-eap70-openshift"
+                "name": "jboss-eap71-openshift"
             },
             "spec": {
                 "dockerImageRepository": "registry.access.redhat.com/jboss-eap-7/eap70-openshift",
